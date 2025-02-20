@@ -31,7 +31,7 @@ Key Features:
 - [rosbag convert](https://ternaris.gitlab.io/rosbags/topics/convert.html)
 
 ```bash
-rosbags-convert exp21_outside_building.bag
+rosbags-convert --src exp21_outside_building.bag --dst exp21_outside_building
 ```
 
 ### Clone the repository
